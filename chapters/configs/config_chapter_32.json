@@ -1,0 +1,181 @@
+{
+  "version": 1,
+  "chapter_id": 32,
+  "levels": [
+    {
+      "id": 1,
+      "complexity": 0,
+      "cutting": "swap_square",
+      "size": 16,
+      "cards_sort": []
+    },
+    {
+      "id": 2,
+      "complexity": 1,
+      "cutting": "swap_square",
+      "size": 36,
+      "cards_sort": []
+    },
+    {
+      "id": 3,
+      "complexity": 0,
+      "cutting": "swap_square",
+      "size": 16,
+      "cards_sort": []
+    },
+    {
+      "id": 4,
+      "complexity": 0,
+      "cutting": "swap_square",
+      "size": 16,
+      "cards_sort": []
+    },
+    {
+      "id": 5,
+      "complexity": 1,
+      "cutting": "swap_square",
+      "size": 36,
+      "cards_sort": []
+    },
+    {
+      "id": 6,
+      "complexity": 0,
+      "cutting": "swap_square",
+      "size": 16,
+      "cards_sort": []
+    },
+    {
+      "id": 7,
+      "complexity": 0,
+      "cutting": "swap_square",
+      "size": 16,
+      "cards_sort": []
+    },
+    {
+      "id": 8,
+      "complexity": 1,
+      "cutting": "swap_square",
+      "size": 36,
+      "cards_sort": []
+    },
+    {
+      "id": 9,
+      "complexity": 0,
+      "cutting": "swap_square",
+      "size": 16,
+      "cards_sort": []
+    },
+    {
+      "id": 10,
+      "complexity": 0,
+      "cutting": "swap_square",
+      "size": 16,
+      "cards_sort": []
+    },
+    {
+      "id": 11,
+      "complexity": 1,
+      "cutting": "swap_square",
+      "size": 36,
+      "cards_sort": []
+    },
+    {
+      "id": 12,
+      "complexity": 0,
+      "cutting": "swap_square",
+      "size": 16,
+      "cards_sort": []
+    },
+    {
+      "id": 13,
+      "complexity": 0,
+      "cutting": "swap_square",
+      "size": 16,
+      "cards_sort": []
+    },
+    {
+      "id": 14,
+      "complexity": 1,
+      "cutting": "swap_square",
+      "size": 36,
+      "cards_sort": []
+    },
+    {
+      "id": 15,
+      "complexity": 0,
+      "cutting": "swap_square",
+      "size": 16,
+      "cards_sort": []
+    },
+    {
+      "id": 16,
+      "complexity": 0,
+      "cutting": "swap_square",
+      "size": 16,
+      "cards_sort": []
+    },
+    {
+      "id": 17,
+      "complexity": 1,
+      "cutting": "swap_square",
+      "size": 36,
+      "cards_sort": []
+    },
+    {
+      "id": 18,
+      "complexity": 0,
+      "cutting": "swap_square",
+      "size": 16,
+      "cards_sort": []
+    },
+    {
+      "id": 19,
+      "complexity": 0,
+      "cutting": "swap_square",
+      "size": 16,
+      "cards_sort": []
+    },
+    {
+      "id": 20,
+      "complexity": 1,
+      "cutting": "swap_square",
+      "size": 36,
+      "cards_sort": []
+    },
+    {
+      "id": 21,
+      "complexity": 0,
+      "cutting": "swap_square",
+      "size": 16,
+      "cards_sort": []
+    },
+    {
+      "id": 22,
+      "complexity": 0,
+      "cutting": "swap_square",
+      "size": 16,
+      "cards_sort": []
+    },
+    {
+      "id": 23,
+      "complexity": 1,
+      "cutting": "swap_square",
+      "size": 36,
+      "cards_sort": []
+    },
+    {
+      "id": 24,
+      "complexity": 0,
+      "cutting": "swap_square",
+      "size": 16,
+      "cards_sort": []
+    },
+    {
+      "id": 25,
+      "complexity": 0,
+      "cutting": "swap_square",
+      "size": 16,
+      "cards_sort": []
+    }
+  ]
+}
